@@ -1,0 +1,7 @@
+/node_modules/
+/public/build/
+__sapper__/build/
+__sapper__/dev/
+__sapper__/export/
+
+.DS_Store
